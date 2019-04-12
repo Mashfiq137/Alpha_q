@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
-
 using namespace std;
-
 const int MAGIC=1000;
-
 int cs;
 
 double getRatio(double ab,double bc,double ac,double ad){
