@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 typedef long long ll;
-
 ll k, yo; int sz;
 map <ll, int> ppf;
 vector <pair <ll, int>> v;
